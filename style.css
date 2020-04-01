@@ -1,0 +1,17 @@
+/*.container {
+	display : grid;
+	grid-template-columns : 20% auto 10%;
+	height: 100%;
+	box-sizing: border-box;
+}
+.content{
+	border: 1px solid red;
+	padding : 20px;
+	text-align : center;
+}
+.mainContent{
+	border :1px solid blue;
+	margin: auto;
+	width: 500px;
+	height: 500px;
+}*/
